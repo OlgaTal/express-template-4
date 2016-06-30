@@ -1,6 +1,6 @@
 # combined frontend and backend<br/>template
 
-included:
-mocha - test runner
-chai - assertions
-istanbul -code coverage
+included:<br/>
+mocha - test runner<br/>
+chai - assertions<br/>
+istanbul -code coverage<br/>
